@@ -9,6 +9,7 @@ import org.primefaces.model.map.Marker;
 
 @ManagedBean(name = "mapaBean")
 @RequestScoped
+//MODIFICACION DE LA CLASE
 
 public class MapaBean {
 
